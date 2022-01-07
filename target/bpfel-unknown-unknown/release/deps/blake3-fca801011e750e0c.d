@@ -1,0 +1,12 @@
+/home/user/Rust/Projects/invoked_program/target/bpfel-unknown-unknown/release/deps/blake3-fca801011e750e0c.rmeta: /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.2.0/src/lib.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.2.0/src/guts.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.2.0/src/platform.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.2.0/src/portable.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.2.0/src/traits.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.2.0/src/join.rs
+
+/home/user/Rust/Projects/invoked_program/target/bpfel-unknown-unknown/release/deps/libblake3-fca801011e750e0c.rlib: /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.2.0/src/lib.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.2.0/src/guts.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.2.0/src/platform.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.2.0/src/portable.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.2.0/src/traits.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.2.0/src/join.rs
+
+/home/user/Rust/Projects/invoked_program/target/bpfel-unknown-unknown/release/deps/blake3-fca801011e750e0c.d: /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.2.0/src/lib.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.2.0/src/guts.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.2.0/src/platform.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.2.0/src/portable.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.2.0/src/traits.rs /home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.2.0/src/join.rs
+
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.2.0/src/lib.rs:
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.2.0/src/guts.rs:
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.2.0/src/platform.rs:
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.2.0/src/portable.rs:
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.2.0/src/traits.rs:
+/home/user/.cargo/registry/src/github.com-1ecc6299db9ec823/blake3-1.2.0/src/join.rs:
